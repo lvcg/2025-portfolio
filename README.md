@@ -18,7 +18,7 @@ More updates are on the way! Stay tuned for additional projects added to the lis
 
 ![Capture](https://user-images.githubusercontent.com/64934558/206009362-d3835037-eded-4f2f-a36b-65a8cf2936d0.PNG)
 
-You can view the live portfolio [here](https://lvcg.github.io/2022-portfolio/).
+You can view the live portfolio [here][(https://lvcg.github.io/2025-portfolio/#)].
 
 
 
