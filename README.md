@@ -1,4 +1,4 @@
-# 2022 Portfolio
+# 2026 Portfolio
 
 Welcome to my professional portfolio! This repository serves as a showcase of my work and skills for potential employers and collaborators.
 
